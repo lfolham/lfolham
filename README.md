@@ -33,4 +33,7 @@ export default {
     ],
     others: [
       'Agile Methodologies', 'Scrum', 'Kanban'
-    ]
+        
+        ]
+      }
+    };
