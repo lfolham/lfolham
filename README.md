@@ -29,7 +29,7 @@ export default {
       'ORM', 'TypeScript', 'POO' , 'SOLID' 
     ],
     tools: [
-      'Git', 'Github', 'trello', 'Slack' , 'Teams' , 
+      'Git', 'Github', 'Trello', 'Slack' , 'Teams' , 
       'Zoom' , 'VS Code', 'Figma', 'Adobe Suit'
     ],
     others: [
