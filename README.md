@@ -9,7 +9,7 @@ export default {
   student: 'Full Stack Web Development',
   college: 'Social Communication - Advertising and Marketing',
   hobbies: ['CounterStrike', 'Series', 'Reading', 'Workout'],
-  email: 'lucasfolha@icloud.com',
+  email: 'lfolha.m@gmail.com',
   linkedin: 'https://www.linkedin.com/in/lucasfolha/',
   contact: '+55 11 91429-0112',
   description: {
@@ -17,19 +17,20 @@ export default {
     being surrounded by people I like and always looking for a different place to go.'
   },
   skills: {
-    language: 'JavaScript',
+    language: 'JavaScript' , 'Python',
     frontend: [
-      'HTML5', 'CSS3', 'Javascript', 'Jest',
-      'React', 'Redux', 'Context API', 'Hooks',
-      'RTL', 'Jest', 'tailwind', 
+      'HTML', 'CSS', 'Javascript', 'React',
+      'React', 'RTL' , 'Redux' , 'Context API' ,
+      'Custom Hooks'
+      
     ],
     backend: [
-      'Node.js', 'Express', 'MongoDB', 'Mongoose',
-      'Firebase', 'RESTful APIs', 'GraphQL'
+      'Docker', 'SQL', 'Node', 'MVC Architecture',
+      'ORM', 'TypeScript', 'POO' , 'SOLID' 
     ],
     tools: [
-      'Git', 'Github', 'trello',
-      'VS Code', 'Figma', 'Adobe Suit'
+      'Git', 'Github', 'trello', 'Slack' , 'Teams' , 
+      'Zoom' , 'VS Code', 'Figma', 'Adobe Suit'
     ],
     others: [
       'Agile Methodologies', 'Scrum', 'Kanban'
